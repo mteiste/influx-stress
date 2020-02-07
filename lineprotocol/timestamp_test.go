@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/influxdata/influx-stress/lineprotocol"
+	"github.com/daniel-lawrence/influx-stress/lineprotocol"
 )
 
 func TestTimestamp_SetTime(t *testing.T) {
